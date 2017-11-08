@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: d41ae60c1d243b64394bcf6de75e341e
+timeCreated: 1474093232
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gorilla_0
+    21300002: Gorilla_1
+    21300004: Gorilla_2
+    21300006: Gorilla_3
+    21300008: Gorilla_4
+    21300010: Gorilla_5
+    21300012: Gorilla_6
+    21300014: Gorilla_7
+    21300016: Gorilla_8
+    21300018: Gorilla_9
+    21300020: Gorilla_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gorilla_0
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 5096
+        width: 872
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_1
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 5072
+        width: 800
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_2
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 5096
+        width: 908
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3536
+        width: 860
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_4
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 3584
+        width: 872
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_5
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 3560
+        width: 920
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2000
+        width: 872
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_7
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2048
+        width: 872
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_8
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2024
+        width: 920
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 464
+        width: 872
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla_10
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 512
+        width: 860
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

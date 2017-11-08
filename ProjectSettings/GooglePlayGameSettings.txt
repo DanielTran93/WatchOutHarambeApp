@@ -1,0 +1,14 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=997931901349
+proj.classDir=Assets
+proj.ConstantsClassName=GoogleplayservicesIOS
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e997931901349%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.ItsBreakTime.WatchOutHarambe%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_rip_harambe%22%3eCgkIpcOBy4UdEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_survive_for_30_seconds%22%3eCgkIpcOBy4UdEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_cant_touch_this%22%3eCgkIpcOBy4UdEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_survive_for_60_seconds%22%3eCgkIpcOBy4UdEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_shh_no_tears_only_dreams_now%22%3eCgkIpcOBy4UdEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_break_time%22%3eCgkIpcOBy4UdEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_the_harambe%22%3eCgkIpcOBy4UdEAIQCw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_are_you_cheating%22%3eCgkIpcOBy4UdEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_survived_time%22%3eCgkIpcOBy4UdEAIQCg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=997931901349-l7uvfhm2k674c8qjbms6h5i9o336ere0.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
+and.BundleId=com.ItsBreakTime.WatchOutHarambe
+ios.ClientId=997931901349-l7uvfhm2k674c8qjbms6h5i9o336ere0.apps.googleusercontent.com
+ios.BundleId=com.BreakTime.WatchOutBroilla
+ios.ResourceData=%23define+CLIENT_ID+%40%22997931901349-l7uvfhm2k674c8qjbms6h5i9o336ere0.apps.googleusercontent.com%22%0d%0a%23define+BUNDLE_ID+%40%22com.itsbreaktime.watchouttest%22%0d%0a%23define+ACH_RIP+%40%22CgkIpcOBy4UdEAIQAQ%22%0d%0a%23define+ACH_SURVIVE_FOR_30_SECONDS+%40%22CgkIpcOBy4UdEAIQAg%22%0d%0a%23define+ACH_CANT_TOUCH_THIS+%40%22CgkIpcOBy4UdEAIQAw%22%0d%0a%23define+ACH_SURVIVE_FOR_60_SECONDS+%40%22CgkIpcOBy4UdEAIQBA%22%0d%0a%23define+ACH_SHH_NO_TEARS_ONLY_DREAMS_NOW+%40%22CgkIpcOBy4UdEAIQBQ%22%0d%0a%23define+ACH_BREAK_TIME+%40%22CgkIpcOBy4UdEAIQBg%22%0d%0a%23define+ACH_FAST_GORILLA+%40%22CgkIpcOBy4UdEAIQCw%22%0d%0a%23define+ACH_ARE_YOU_CHEATING+%40%22CgkIpcOBy4UdEAIQDA%22%0d%0a%23define+LEAD_SURVIVED_TIME+%40%22CgkIpcOBy4UdEAIQCg%22%0d%0a
+ios.SetupDone=true
